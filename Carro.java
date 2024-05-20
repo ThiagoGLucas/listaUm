@@ -1,5 +1,3 @@
-package atividade;
-
 public class Carro {
 	private String modelo;
 	private String marca;
