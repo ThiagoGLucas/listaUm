@@ -1,5 +1,3 @@
-package atividade;
-
 public class Triangulo {
 	private double ladoA;
 	private double ladoB;
