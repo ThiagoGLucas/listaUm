@@ -1,5 +1,3 @@
-package atividade;
-
 public class DataHora {
 	private Data data;
 	private String hora;
